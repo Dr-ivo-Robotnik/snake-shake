@@ -6,7 +6,8 @@ old nokia video game?
 it is it!
 this snake game has made by python!
 ______________________________
-**Copyright**\n
+Copyright
+-----------------------------
 Copyright2023Dr.Robotnik
 please do not distribute!
 ______________________________
