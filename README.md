@@ -6,12 +6,12 @@ old nokia video game?
 it is it!
 this snake game has made by python!
 ______________________________
-**Copyright**
+**Copyright**\n
 Copyright2023Dr.Robotnik
 please do not distribute!
 ______________________________
-**Donate***
-Hey guys
+**Donate**
+Hey guys!
 im starting my github projects
 if you want to support me, 
 please just pay me 1$ dollars
