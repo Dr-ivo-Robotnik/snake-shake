@@ -1,6 +1,6 @@
 # snake-shake
-The Dr.Robotnik Snake game
-______________________________
+(The Dr.Robotnik Snake game)
+------------------------------
 do you remember that goofy ahh
 old nokia video game?
 it is it!
